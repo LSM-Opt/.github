@@ -39,11 +39,11 @@ MAP  →  (GOP  ⟷  HCG)  →  RUN
 
 | Repository | Role |
 |----------|------|
-| MAP | Model structure analysis & HW-aware planning |
-| GOP | IR generation & graph optimization |
-| HCG | Mixed precision & HW-specific code generation |
-| RUN | Runtime execution & monitoring |
-| MDM | Metadata, benchmark & kernel repository |
+| [MAP](https://github.com/LSM-Opt/MAP) | Model structure analysis & HW-aware planning |
+| [GOP](https://github.com/LSM-Opt/GOP) | IR generation & graph optimization |
+| [HCG](https://github.com/LSM-Opt/HCG) | Mixed precision & HW-specific code generation |
+| [RUN](https://github.com/LSM-Opt/RUN) | Runtime execution & monitoring |
+| [MDM](https://github.com/LSM-Opt/MDM) | Metadata, benchmark & kernel repository |
 
 ---
 

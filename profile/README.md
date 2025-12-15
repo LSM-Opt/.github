@@ -19,6 +19,8 @@
 
 ## 🏗️ Overall Architecture
 
+![Architecture](architecture.png)
+
 ```
 MAP  →  (GOP  ⟷  HCG)  →  RUN
   ↘───────────────↘

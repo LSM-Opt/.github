@@ -19,7 +19,7 @@
 
 ## 🏗️ Overall Architecture
 
-![Architecture](architecture.png)
+![Architecture](LSM_architecture.png)
 
 ```
 MAP  →  (GOP  ⟷  HCG)  →  RUN
